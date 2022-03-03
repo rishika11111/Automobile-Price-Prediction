@@ -83,7 +83,7 @@ R2 Score: 0.9012478421695049
  
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/45491462/156474691-d78f59d1-5f13-4028-85aa-ef6d6e72f9e8.png">
 
-# Conlcusion
+# Conclusion
 Upon exploring the dataset in detail, we found correlations between the attributes and the output. After data cleaning and pre-processing steps, we fed 
 the dataset to three machine learning models that we found to be the most efficient and appropriate for the given task. On observing the results of the 
 predictions, we found all the three algorthims to produce satisfactory results, with two being far more superior to the third, viz, Random Forest and Decision 
